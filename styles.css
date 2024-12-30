@@ -1,0 +1,463 @@
+body{
+    margin: 0%;
+    
+}
+.header{
+     width:100%;
+     background-color: #db1024;
+     height: 89px;
+     position: fixed;
+     z-index: 1;
+}
+.logo{
+    margin-right: 93%;
+}
+.image{
+    width: 86px;
+    height: 53px;
+    padding-left: 20px;
+    padding-top: 20px;
+    cursor: pointer;
+   
+}
+.top-bar{
+    
+    padding-left: 118px;
+    display: flex;
+    list-style: none;
+    margin-top: -45px;
+    color: white;
+
+
+   
+}
+
+li{
+    margin-left: 22px;
+    font-size: 20px;
+    cursor:pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+
+}
+.first-body{
+    width: 100%;
+}
+
+.video{
+    width: 100%;
+    height: 100%;
+    margin-top: 86px;
+}
+.second-body{
+    width: 1519px;
+    height: 94px;
+    background-color: #E30612;
+    padding-top: 339px;
+    margin-top: 11px;
+}
+.have-a-break{
+    
+    margin-top: -311px;
+    padding-left: 624px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.first-image{
+    display: flex;
+    padding-top: 16px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.man{
+    width: 400px;
+    height: 200px;
+    cursor: pointer;
+}
+
+.coffee{
+    width: 400px;
+    height: 200px;
+}
+.play-icon{
+    width: 73px;
+    position: relative;
+    top: -131px;
+    left: 345px;
+    cursor: pointer;
+}
+.therd-body{
+    width: 1519px;
+    height: 341px;
+    background-color: #E30612;
+    padding-top: 339px;
+    margin-top: 24px;
+}
+.text0{
+    
+    margin-top: -311px;
+    padding-left: 365px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.second-images{
+    display: flex;
+    padding-top: 29px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.chocolate1{
+    width: 250px;
+    height: 250px;
+    
+}
+.chocolate2{
+    width: 250px;
+    height: 250px;
+    
+}
+.chocolate3{
+    width: 250px;
+    height: 250px;   
+}
+.texts{
+    display: flex;
+    padding-top: 6px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+    
+}
+.text1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 58px;
+}
+.text2{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 81px;
+}
+.text3{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 25px;
+}
+.paragraph{
+    display: flex;
+    justify-content: space-evenly;
+}
+.text4{
+    color: white;
+    position: relative;
+    left: 39px;
+    font-size: 20px;
+}
+.text5{
+    color: white;
+    position: relative;
+    left: 24px;
+    font-size: 20px;
+}
+.text6{
+    color: white;
+    position: relative;
+    left: -13px;
+    font-size: 20px;
+}
+.discover-button{
+    padding-left: 627px;
+}
+.discover{
+    color: #E30612;
+    width: 275px;
+    height: 53px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 7px;
+    border-color: white;
+    cursor: pointer;
+}
+
+
+.fourth-body{
+    width: 1519px;
+    height: 170px;
+    background-color: #E30612;
+    padding-top: 339px;
+    margin-top: 24px;
+}
+.nigroo_chechii{
+    position: relative;
+    
+    left: 128px;
+    top: -274px;
+    border-radius: 5px;
+}
+.forthbody-text{
+    width: 302px;
+    height: 50px;
+    background-color: #861723;
+    position: relative;
+    top: -655px;
+    left: 552px;
+}
+.forthtext{
+    font-size: 24px;
+    position: relative;
+    left: 12px;
+    top: 10px;
+    color: white;
+}
+.forth-upperpara{
+    position: relative;
+    top: -631px;
+    font-size: 1.8rem;
+    margin-left: 552px;
+    font-weight:900;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.forth-lowerpara{
+    position: relative;
+    top: -616px;
+    padding-left: 561px;
+    font-size: 18px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.how-it-button{
+    
+    padding-left: 553px;
+    position: relative;
+    top: -586px;
+    
+
+
+}
+.how-it{
+    color: #E30612;
+    width: 175px;
+    height: 53px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 7px;
+    border-color: white;
+    cursor: pointer;
+
+}
+.fifth-body{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    top: -403px;
+}
+.map{
+    height: 779px;
+    width: 100%;
+    padding-top: 440px;
+}
+.redcolor{
+    background-color: #e5041a9c;
+    width: 100%;
+    height: 1000px;
+    margin-top: -796px;
+    position: absolute;
+}
+.explore-text{
+    margin-top: -707px;
+    padding-left: 459px;
+    font-size: 1.8rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:900;
+    color: white;
+    position: absolute;
+}
+.text-explore{
+    margin-top: -619px;
+    padding-left: 308px;
+    line-height: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color:white;
+     position: absolute;
+}
+
+
+.north-america{
+    margin-left: 43px;
+    width: 400px;
+    height: 250px;
+    margin-top: -219px;
+    position: absolute;
+   }
+.northmap-color{
+    margin-left: 43px;
+    height: 250px;
+    width: 400px;
+    background-color: #861722b0;
+    position: absolute;
+    margin-top: -219px;
+}
+.north-text{
+    color: white;
+    margin-left: 112px;
+    padding-top: 176px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.northmap-color:hover{
+    background-color:#e30611b9;
+    
+}
+.europe-color{
+    margin-left: 284px;
+    height: 250px;
+    width: 400px;
+    background-color: #861722b0;
+    position: absolute;
+    margin-top: -219px;
+}
+.europe{
+    margin-left: 284px;
+    width: 400px;
+    height: 250px;
+    margin-top: -219px;
+    position: absolute;
+   }
+.europe-text{
+    color: white;
+    margin-left: 143px;
+    padding-top: 176px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+.europe-color:hover{
+    background-color:#e30611b9;
+   }
+.asia-color{
+    margin-left: 533px;
+    height: 250px;
+    width: 400px;
+    background-color: #861722b0;
+    position: absolute;
+    margin-top: -220px;
+}
+.asia{
+    margin-left: 533px;
+    width: 400px;
+    height: 250px;
+    margin-top: -220px;
+    position: absolute;
+}
+.asia-text{
+    color: white;
+    margin-left: 157px;
+    padding-top: 176px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+.asia-color:hover{
+    background-color:#e30611b9;
+   }
+   .africa-color{
+    margin-left: 282px;
+    height: 250px;
+    width: 400px;
+    background-color: #861722b0;
+    position: absolute;
+    margin-top: -66px;
+    
+}
+.africa{
+    margin-left: 282px;
+    width: 400px;
+    height: 250px;
+    margin-top: -66px;
+    position: absolute;
+}
+.africa-text{
+    color: white;
+    margin-left: 157px;
+    padding-top: 176px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.africa-color:hover{
+    background-color:#e30611b9;
+    
+}
+.sixth-body{
+    width: 100%;
+    height: 232px;
+    background-color: #E30612;
+    margin-top: 545px;
+}
+
+.social-breaks{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    padding-left: 593px;
+    padding-top: 47px;
+}
+.sevnth-body{
+    width: 100%;
+    height: 248px;
+    background-color: #E30612;
+    margin-top: 21px;
+}
+.connect-with-us{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    padding-left: 227px;
+    padding-top: 14px;
+
+}
+.social-media-icon{
+    padding-left: 223px;
+    margin-top: -34px;
+    cursor: pointer;
+}
+
+.eighth-body{
+    width: 100%;
+    height: 199px;
+    background-color: #d8222b;
+    margin-top: 3px;
+
+}
+.news-about-etc{
+    margin-right: 339px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    line-height: 1px;
+    margin-left: -51px;
+    color: white;
+}
+.ninth-body{
+    width: 100%;
+    height: 75px;
+    background-color: #f9f9f9;
+    
+
+}
+
+.bird-icon{
+    padding-left: 96px;
+}
+.nestle{
+    padding-left: 286px;
+    margin-top: -47px;
+    font-size: 18px;
+}
+.terms-etc{
+    margin-top: -50px;
+    padding-left: 10px;
+    display: flex;
+    list-style: none;
+    justify-content: right;
+    margin-right: 117px;
+}
